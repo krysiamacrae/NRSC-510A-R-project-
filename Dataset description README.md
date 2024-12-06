@@ -1,0 +1,2 @@
+Samples from Rosin et al. (2021), “GSM3901919 E15.5 microglia from CD1 embryos” and “GSM3901920 E15.5 microglia from stressed CD1 embryos,” were used, both publicly available on GEO without access permissions. These datasets include supplementary files: a barcode file (identifiers for 2,623 hypothalamic microglia cells), a feature file (gene identifiers expressed in the microglia), and a matrix file (normalized gene expression levels per cell). The mean reads per cell are 96,753.
+Link to datasets: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE133194

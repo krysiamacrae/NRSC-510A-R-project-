@@ -1,0 +1,3 @@
+The GNU General Public License (GPL) 3.0 was chosen for the OSF page to keep the software open and free to use, modify, and distribute. It ensures that any changes or improvements to the software are also shared under the same license, preventing proprietary use. This supports collaboration and ensures the project remains accessible to others in the research community.
+All project files, including code, datasets, presentations, and proposals, are uploaded to GitHub or directly to the OSF page and are accessible under the "Files" section. The project description is available under the "Wiki" tab. Link to OSF: https://osf.io/475ug/?view_only=ca9801b037a340898f36e7279c05e689
+
